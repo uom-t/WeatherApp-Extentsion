@@ -1,4 +1,4 @@
-2145367_A.Tharshayini Weather Application Project: Setup Instructions and Explanation Project Overview This Weather Application is an Android app that displays the current weather information for the user's location. It uses the OpenWeatherMap API to fetch weather data.The app displays the current latitude and longitude, reverse geocoded address, current system time, and weather information including temperature, humidity, and weather description. Setup Instructions
+Weather Application Project: Setup Instructions and Explanation Project Overview This Weather Application is an Android app that displays the current weather information for the user's location. It uses the OpenWeatherMap API to fetch weather data.The app displays the current latitude and longitude, reverse geocoded address, current system time, and weather information including temperature, humidity, and weather description. Setup Instructions
 
     Add API Key to the Project o Open MainActivity.java. Replace "YOUR_API_KEY" with your actual API key. Current apikey will exbe expired on June 19th 2024 
 
